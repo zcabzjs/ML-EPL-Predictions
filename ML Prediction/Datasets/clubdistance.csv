@@ -1,0 +1,381 @@
+Home,Away,Distance
+Arsenal,Bournemouth,151
+Arsenal,Brighton,77
+Arsenal,Burnley,287
+Arsenal,Chelsea,10
+Arsenal,Crystal Palace,17
+Arsenal,Everton,285
+Arsenal,Huddersfield,259
+Arsenal,Leicester,138
+Arsenal,Liverpool,285
+Arsenal,Man City,257
+Arsenal,Man United,259
+Arsenal,Newcastle,394
+Arsenal,Southampton,115
+Arsenal,Stoke,213
+Arsenal,Swansea,265
+Arsenal,Tottenham,6
+Arsenal,Watford,23
+Arsenal,West Brom,166
+Arsenal,West Ham,7
+Bournemouth,Arsenal,151
+Bournemouth,Brighton,124
+Bournemouth,Burnley,341
+Bournemouth,Chelsea,142
+Bournemouth,Crystal Palace,143
+Bournemouth,Everton,311
+Bournemouth,Huddersfield,325
+Bournemouth,Leicester,215
+Bournemouth,Liverpool,310
+Bournemouth,Man City,307
+Bournemouth,Man United,305
+Bournemouth,Newcastle,472
+Bournemouth,Southampton,37
+Bournemouth,Stoke,252
+Bournemouth,Swansea,178
+Bournemouth,Tottenham,157
+Bournemouth,Watford,143
+Bournemouth,West Brom,198
+Bournemouth,West Ham,156
+Brighton,Arsenal,77
+Brighton,Bournemouth,124
+Brighton,Burnley,357
+Brighton,Chelsea,69
+Brighton,Crystal Palace,60
+Brighton,Everton,348
+Brighton,Huddersfield,331
+Brighton,Leicester,209
+Brighton,Liverpool,347
+Brighton,Man City,326
+Brighton,Man United,326
+Brighton,Newcastle,469
+Brighton,Southampton,92
+Brighton,Stoke,277
+Brighton,Swansea,282
+Brighton,Tottenham,83
+Brighton,Watford,90
+Brighton,West Brom,225
+Brighton,West Ham,75
+Burnley,Arsenal,287
+Burnley,Bournemouth,341
+Burnley,Brighton,357
+Burnley,Chelsea,291
+Burnley,Crystal Palace,303
+Burnley,Everton,62
+Burnley,Huddersfield,34
+Burnley,Leicester,149
+Burnley,Liverpool,63
+Burnley,Man City,34
+Burnley,Man United,37
+Burnley,Newcastle,138
+Burnley,Southampton,326
+Burnley,Stoke,89
+Burnley,Swansea,265
+Burnley,Tottenham,284
+Burnley,Watford,268
+Burnley,West Brom,144
+Burnley,West Ham,292
+Chelsea,Arsenal,10
+Chelsea,Bournemouth,142
+Chelsea,Brighton,69
+Chelsea,Burnley,291
+Chelsea,Crystal Palace,12
+Chelsea,Everton,288
+Chelsea,Huddersfield,264
+Chelsea,Leicester,143
+Chelsea,Liverpool,287
+Chelsea,Man City,261
+Chelsea,Man United,263
+Chelsea,Newcastle,400
+Chelsea,Southampton,105
+Chelsea,Stoke,215
+Chelsea,Swansea,260
+Chelsea,Tottenham,16
+Chelsea,Watford,24
+Chelsea,West Brom,167
+Chelsea,West Ham,14
+Crystal Palace,Arsenal,17
+Crystal Palace,Bournemouth,143
+Crystal Palace,Brighton,60
+Crystal Palace,Burnley,303
+Crystal Palace,Chelsea,12
+Crystal Palace,Everton,300
+Crystal Palace,Huddersfield,276
+Crystal Palace,Leicester,154
+Crystal Palace,Liverpool,299
+Crystal Palace,Man City,273
+Crystal Palace,Man United,274
+Crystal Palace,Newcastle,411
+Crystal Palace,Southampton,106
+Crystal Palace,Stoke,227
+Crystal Palace,Swansea,268
+Crystal Palace,Tottenham,23
+Crystal Palace,Watford,36
+Crystal Palace,West Brom,179
+Crystal Palace,West Ham,16
+Everton,Arsenal,285
+Everton,Bournemouth,311
+Everton,Brighton,348
+Everton,Burnley,62
+Everton,Chelsea,288
+Everton,Crystal Palace,300
+Everton,Huddersfield,83
+Everton,Leicester,152
+Everton,Liverpool,1
+Everton,Man City,51
+Everton,Man United,45
+Everton,Newcastle,192
+Everton,Southampton,302
+Everton,Stoke,73
+Everton,Swansea,210
+Everton,Tottenham,283
+Everton,Watford,264
+Everton,West Brom,123
+Everton,West Ham,291
+Huddersfield,Arsenal,259
+Huddersfield,Bournemouth,325
+Huddersfield,Brighton,331
+Huddersfield,Burnley,34
+Huddersfield,Chelsea,264
+Huddersfield,Crystal Palace,276
+Huddersfield,Everton,83
+Huddersfield,Leicester,122
+Huddersfield,Liverpool,83
+Huddersfield,Man City,34
+Huddersfield,Man United,41
+Huddersfield,Newcastle,147
+Huddersfield,Southampton,307
+Huddersfield,Stoke,79
+Huddersfield,Swansea,268
+Huddersfield,Tottenham,256
+Huddersfield,Watford,241
+Huddersfield,West Brom,128
+Huddersfield,West Ham,264
+Leicester,Arsenal,138
+Leicester,Bournemouth,215
+Leicester,Brighton,209
+Leicester,Burnley,149
+Leicester,Chelsea,143
+Leicester,Crystal Palace,154
+Leicester,Everton,152
+Leicester,Huddersfield,122
+Leicester,Liverpool,152
+Leicester,Man City,119
+Leicester,Man United,121
+Leicester,Newcastle,264
+Leicester,Southampton,192
+Leicester,Stoke,81
+Leicester,Swansea,220
+Leicester,Tottenham,135
+Leicester,Watford,119
+Leicester,West Brom,57
+Leicester,West Ham,143
+Liverpool,Arsenal,285
+Liverpool,Bournemouth,310
+Liverpool,Brighton,347
+Liverpool,Burnley,63
+Liverpool,Chelsea,287
+Liverpool,Crystal Palace,299
+Liverpool,Everton,1
+Liverpool,Huddersfield,83
+Liverpool,Leicester,152
+Liverpool,Man City,51
+Liverpool,Man United,45
+Liverpool,Newcastle,193
+Liverpool,Southampton,301
+Liverpool,Stoke,72
+Liverpool,Swansea,210
+Liverpool,Tottenham,283
+Liverpool,Watford,263
+Liverpool,West Brom,122
+Liverpool,West Ham,290
+Man City,Arsenal,257
+Man City,Bournemouth,307
+Man City,Brighton,326
+Man City,Burnley,34
+Man City,Chelsea,261
+Man City,Crystal Palace,273
+Man City,Everton,51
+Man City,Huddersfield,34
+Man City,Leicester,119
+Man City,Liverpool,51
+Man City,Man United,6
+Man City,Newcastle,170
+Man City,Southampton,292
+Man City,Stoke,55
+Man City,Swansea,236
+Man City,Tottenham,254
+Man City,Watford,238
+Man City,West Brom,110
+Man City,West Ham,262
+Man United,Arsenal,259
+Man United,Bournemouth,305
+Man United,Brighton,326
+Man United,Burnley,37
+Man United,Chelsea,263
+Man United,Crystal Palace,274
+Man United,Everton,45
+Man United,Huddersfield,41
+Man United,Leicester,121
+Man United,Liverpool,45
+Man United,Man City,6
+Man United,Newcastle,174
+Man United,Southampton,291
+Man United,Stoke,53
+Man United,Swansea,231
+Man United,Tottenham,256
+Man United,Watford,239
+Man United,West Brom,108
+Man United,West Ham,264
+Newcastle,Arsenal,394
+Newcastle,Bournemouth,472
+Newcastle,Brighton,469
+Newcastle,Burnley,138
+Newcastle,Chelsea,400
+Newcastle,Crystal Palace,411
+Newcastle,Everton,192
+Newcastle,Huddersfield,147
+Newcastle,Leicester,264
+Newcastle,Liverpool,193
+Newcastle,Man City,170
+Newcastle,Man United,174
+Newcastle,Southampton,453
+Newcastle,Stoke,224
+Newcastle,Swansea,402
+Newcastle,Tottenham,389
+Newcastle,Watford,379
+Newcastle,West Brom,275
+Newcastle,West Ham,397
+Southampton,Arsenal,115
+Southampton,Bournemouth,37
+Southampton,Brighton,92
+Southampton,Burnley,326
+Southampton,Chelsea,105
+Southampton,Crystal Palace,106
+Southampton,Everton,302
+Southampton,Huddersfield,307
+Southampton,Leicester,192
+Southampton,Liverpool,301
+Southampton,Man City,292
+Southampton,Man United,291
+Southampton,Newcastle,453
+Southampton,Stoke,238
+Southampton,Swansea,195
+Southampton,Tottenham,121
+Southampton,Watford,108
+Southampton,West Brom,183
+Southampton,West Ham,119
+Stoke,Arsenal,213
+Stoke,Bournemouth,252
+Stoke,Brighton,277
+Stoke,Burnley,89
+Stoke,Chelsea,215
+Stoke,Crystal Palace,227
+Stoke,Everton,73
+Stoke,Huddersfield,79
+Stoke,Leicester,81
+Stoke,Liverpool,72
+Stoke,Man City,55
+Stoke,Man United,53
+Stoke,Newcastle,224
+Stoke,Southampton,238
+Stoke,Swansea,192
+Stoke,Tottenham,211
+Stoke,Watford,192
+Stoke,West Brom,55
+Stoke,West Ham,218
+Swansea,Arsenal,265
+Swansea,Bournemouth,178
+Swansea,Brighton,282
+Swansea,Burnley,265
+Swansea,Chelsea,260
+Swansea,Crystal Palace,268
+Swansea,Everton,210
+Swansea,Huddersfield,268
+Swansea,Leicester,220
+Swansea,Liverpool,210
+Swansea,Man City,236
+Swansea,Man United,231
+Swansea,Newcastle,402
+Swansea,Southampton,195
+Swansea,Stoke,192
+Swansea,Tottenham,267
+Swansea,Watford,244
+Swansea,West Brom,166
+Swansea,West Ham,271
+Tottenham,Arsenal,6
+Tottenham,Bournemouth,157
+Tottenham,Brighton,83
+Tottenham,Burnley,284
+Tottenham,Chelsea,16
+Tottenham,Crystal Palace,23
+Tottenham,Everton,283
+Tottenham,Huddersfield,256
+Tottenham,Leicester,135
+Tottenham,Liverpool,283
+Tottenham,Man City,254
+Tottenham,Man United,256
+Tottenham,Newcastle,389
+Tottenham,Southampton,121
+Tottenham,Stoke,211
+Tottenham,Swansea,267
+Tottenham,Watford,24
+Tottenham,West Brom,164
+Tottenham,West Ham,8
+Watford,Arsenal,23
+Watford,Bournemouth,143
+Watford,Brighton,90
+Watford,Burnley,268
+Watford,Chelsea,24
+Watford,Crystal Palace,36
+Watford,Everton,264
+Watford,Huddersfield,241
+Watford,Leicester,119
+Watford,Liverpool,263
+Watford,Man City,238
+Watford,Man United,239
+Watford,Newcastle,379
+Watford,Southampton,108
+Watford,Stoke,192
+Watford,Swansea,244
+Watford,Tottenham,24
+Watford,West Brom,143
+Watford,West Ham,29
+West Brom,Arsenal,166
+West Brom,Bournemouth,198
+West Brom,Brighton,225
+West Brom,Burnley,144
+West Brom,Chelsea,167
+West Brom,Crystal Palace,179
+West Brom,Everton,123
+West Brom,Huddersfield,128
+West Brom,Leicester,57
+West Brom,Liverpool,122
+West Brom,Man City,110
+West Brom,Man United,108
+West Brom,Newcastle,275
+West Brom,Southampton,183
+West Brom,Stoke,55
+West Brom,Swansea,166
+West Brom,Tottenham,164
+West Brom,Watford,143
+West Brom,West Ham,172
+West Ham,Arsenal,7
+West Ham,Bournemouth,156
+West Ham,Brighton,75
+West Ham,Burnley,292
+West Ham,Chelsea,14
+West Ham,Crystal Palace,16
+West Ham,Everton,291
+West Ham,Huddersfield,264
+West Ham,Leicester,143
+West Ham,Liverpool,290
+West Ham,Man City,262
+West Ham,Man United,264
+West Ham,Newcastle,397
+West Ham,Southampton,119
+West Ham,Stoke,218
+West Ham,Swansea,271
+West Ham,Tottenham,8
+West Ham,Watford,29
+West Ham,West Brom,172
